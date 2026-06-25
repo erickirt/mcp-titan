@@ -1,5 +1,7 @@
 # TITAN Memory: AI That Remembers Like You Do
 
+I've kind of given up on this as I don't have money to train it. Feel free to submit any sort of pull requests :)
+
 **Turn any AI into a learning companion that remembers across conversations**
 
 [![npm version](https://badge.fury.io/js/@henryhawke%2Fmcp-titan.svg)](https://www.npmjs.com/package/@henryhawke/mcp-titan)
